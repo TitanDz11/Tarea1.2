@@ -1,0 +1,16 @@
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\bin\Debug\netstandard2.0\Proyecto06082021.deps.json
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\bin\Debug\netstandard2.0\Proyecto06082021.dll
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\bin\Debug\netstandard2.0\ref\Proyecto06082021.dll
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\bin\Debug\netstandard2.0\Proyecto06082021.pdb
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Proyecto06082021.csproj.AssemblyReference.cache
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Proyecto06082021.AssemblyInfoInputs.cache
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Proyecto06082021.AssemblyInfo.cs
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Proyecto06082021.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Proyecto06082021.dll
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\ref\Proyecto06082021.dll
+C:\Users\Ethan Diaz\source\repos\Proyecto06082021\Proyecto06082021\Proyecto06082021\obj\Debug\netstandard2.0\Proyecto06082021.pdb

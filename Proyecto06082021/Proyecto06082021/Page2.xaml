@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyecto06082021.Page2">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+
+            <Entry x:Name="id" FontSize="Small"/> 
+            
+            <Label Text="Nombres" FontSize="Small"/>
+            <Entry FontSize="Small" PlaceholderColor="Black"  x:Name="nombre" />
+
+            <Label Text="Apellidos" FontSize="Small"/>
+            <Entry Placeholder="Ingrese Apellidos" FontSize="Small" PlaceholderColor="Black"  x:Name="apellido" />
+
+            <Label Text="Edad" FontSize="Small" />
+            <Entry Placeholder="Ingrese Edad" FontSize="Small" PlaceholderColor="Black" Keyboard="Numeric" x:Name="edad" />
+
+            <Label Text="Correo" FontSize="Small"/>
+            <Entry Placeholder="Ingrese Correo" FontSize="Small" PlaceholderColor="Black"  x:Name="correo" />
+
+            <Label Text="Direccion" FontSize="Small"/>
+            <Entry Placeholder="Ingrese Direccion" FontSize="Small" PlaceholderColor="Black"  x:Name="direccion" />
+
+            
+
+            <Button Text="Modificar"
+                TextColor="Black"
+                    x:Name="Modificar"
+                    Clicked="Modificar_Clicked"
+                    
+                />
+
+            <Button Text="Eliminar"
+                TextColor="Black"
+                    x:Name="Eliminar"
+                    Clicked="Eliminar_Clicked"
+                    
+                />
+        </StackLayout> 
+        
+    </ContentPage.Content>
+</ContentPage>
